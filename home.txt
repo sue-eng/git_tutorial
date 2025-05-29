@@ -1,2 +1,3 @@
 hoge
 conflict
+conflict2
